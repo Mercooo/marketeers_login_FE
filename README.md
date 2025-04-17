@@ -131,7 +131,6 @@ frontend/
 │   ├── index.css        # Global styles with Tailwind directives
 │   ├── Login.jsx        # Login component
 │   ├── TablePage.jsx    # Dashboard table component
-│   └── reportWebVitals.js
 ├── tailwind.config.js   # Tailwind CSS configuration
 ├── package.json         # Project dependencies and scripts
 └── README.md            # Project documentation
